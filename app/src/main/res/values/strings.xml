@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tools List</string>
+    <string name="logo_of_app">Logo of App</string>
+    <string name="logo_drills">logo drills</string>
+
+    <string-array name="tools_list">
+        <item>Drills</item>
+        <item>Grinders</item>
+        <item>Perforator</item>
+    </string-array>
+
+    <string name="makita_drill_title">Makita</string>
+    <string name="dewalt_drill_title">DeWalt</string>
+    <string name="matrix_drill_title">Matrix</string>
+
+    <string name="makita_drill_info">In 1958, Makita Corporation, which was founded in 1915 as an electric motor sales and repair company, became the first company in Japan to manufacture and sell portable electric planers. Over the half century since, Makita has worked to build a steady position as a manufacturer of power tools. Today, Makita continues to provide products and services that are beneficial to all types of customers engaged in housing construction. Makita’s history is one of close interaction with customers and parallels the evolution of power tools</string>
+    <string name="dewalt_drill_info">DEWALT offers a full range of corded and cordless drills to meet every drilling need. Including; stud and joist, 1/2" - 3/8" variable speed corded drills, and cordless drills in a range of voltages. Each drill is designed with features to meet the drilling needs of specific applications and environments.</string>
+    <string name="matrix_drill_info">Powerful 20-volt max motor provides enough power for a full range of applications and attachments
+Compact and lightweight design allows users to carry out drilling/driving tasks in confined spaces and with ease
+Part of the 20-volt max system a system that demands attention
+Included Components: (1) BDCDMT120 20V MAX Power Unit, (1) BDCMTDD Drill/Driver Attachment, (1) 20V MAX Lithium Ion Battery, (1) 20V MAX Charger, (1) Double-ended Bit
+Matrix Quick Connect System
+Powerful 20v MAX Motor provides enough power for a full range of applications  attachments
+Compact and lightweight design
+Part of the 20V MAX System - A System that Demands Attention</string>
+</resources>
